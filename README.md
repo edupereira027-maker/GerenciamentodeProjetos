@@ -1,5 +1,7 @@
 # GerenciamentodeProjetos
 
+- Para acessar o projeto acesse a url: https://edupereira027-maker.github.io/GerenciamentodeProjetos/
+  
 Descrição Técnica do Sistema de Gestão Administrativa de TI
 
 Tecnologia Utilizada:
@@ -59,3 +61,5 @@ Controle Administrativo:
   - Cálculo de Orçamento Previsto x Realizado
   - Projeção de Gastos
   - Análise de Salários e Horas Extras
+ 
+  
