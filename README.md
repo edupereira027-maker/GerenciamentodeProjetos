@@ -1,4 +1,4 @@
-# GerenciamentodeProjetos
+# Gerenciamento de Projetos
 
 - Para acessar o projeto acesse a url: https://edupereira027-maker.github.io/GerenciamentodeProjetos/
   
