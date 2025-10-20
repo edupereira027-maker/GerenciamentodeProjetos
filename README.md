@@ -1,7 +1,5 @@
 # Gerenciamento de Projetos
 
-[- Para acessar o protótipo do projeto clique aqui: https://edupereira027-maker.github.io/GerenciamentodeProjetos/]
-  
 Descrição Técnica do Sistema de Gestão Administrativa de TI
 
 Tecnologia Utilizada:
