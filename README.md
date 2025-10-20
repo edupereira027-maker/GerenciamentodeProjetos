@@ -1,6 +1,6 @@
 # Gerenciamento de Projetos
 
-- Para acessar o projeto acesse a url: https://edupereira027-maker.github.io/GerenciamentodeProjetos/
+- Para acessar o protótipo do projeto clique aqui: https://edupereira027-maker.github.io/GerenciamentodeProjetos/
   
 Descrição Técnica do Sistema de Gestão Administrativa de TI
 
