@@ -1,6 +1,7 @@
 # Gerenciamento de Projetos
 
-- Clique no link para acessar o protótipo do Dashboard de Gestão de Projetos - https://edupereira027-maker.github.io/GerenciamentodeProjetos/
+- Clique no link para acessar o protótipo do Dashboard de Gestão de Projetos:
+*https://edupereira027-maker.github.io/GerenciamentodeProjetos/*
 
 Descrição Técnica do Sistema de Gestão Administrativa de TI
 
